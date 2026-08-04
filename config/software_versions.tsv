@@ -1,0 +1,10 @@
+artifact_id	software	reported_version	primary_role
+ATAC-BASH-SW-001	FastQC	0.12.1	raw-read quality assessment
+ATAC-BASH-SW-002	NGMerge	0.5	adapter-overlap trimming of paired reads
+ATAC-BASH-SW-003	Bowtie2	2.4.2	alignment to mm10/GRCm38
+ATAC-BASH-SW-004	samtools	1.12	BAM conversion, sorting, indexing, and mitochondrial filtering
+ATAC-BASH-SW-005	Picard	2.9.0	duplicate marking/removal and insert-size metrics
+ATAC-BASH-SW-006	MACS3	3.0.1	per-library paired-end peak calling
+ATAC-BASH-SW-007	bedtools2	2.31.1	peak merging, overlap operations, FRiP, and consensus counts
+ATAC-BASH-SW-008	deepTools	3.5.5	browser-track generation
+

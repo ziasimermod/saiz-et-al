@@ -1,0 +1,32 @@
+artifact_id	path	role
+ATAC-BASH-DOC-001	README.md	primary entry point and execution guide
+ATAC-BASH-MAN-001	FILE_MANIFEST.tsv	artifact identifier and file map
+ATAC-BASH-MAN-002	SHA256SUMS.txt	integrity checksums for all other compendium files
+ATAC-BASH-REPO-001	.gitignore	generated-data and local-configuration exclusions
+ATAC-BASH-ENV-001	environment.yml	optional pinned Conda environment
+ATAC-BASH-CFG-001	config/project_config.example.sh	site-specific paths, executables, and analysis parameters
+ATAC-BASH-CFG-002	config/samples.example.tsv	example sample identity and biological metadata table
+ATAC-BASH-CFG-003	config/modules.example.sh	HPC module template using Methods-reported versions
+ATAC-BASH-CFG-004	config/software_versions.tsv	authoritative software/version record
+ATAC-BASH-DOC-002	docs/ATAC-BASH-DOC-002_methods-to-code-map.md	STAR Methods traceability and parameter caveats
+ATAC-BASH-DOC-003	docs/ATAC-BASH-DOC-003_historical-script-audit.md	archive consolidation and exclusion rationale
+ATAC-BASH-DOC-004	docs/ATAC-BASH-DOC-004_outputs-and-qc.md	output tree, QC definitions, and downstream handoff
+ATAC-BASH-DOC-005	docs/ATAC-BASH-DOC-005_github-release-checklist.md	paper-specific completion and validation checklist
+ATAC-BASH-DOC-006	docs/ATAC-BASH-DOC-006_github-setup-and-collaboration.md	lab-owned repository setup and contributor workflow
+ATAC-BASH-SCR-000	scripts/lib/common.sh	shared configuration, sample-sheet, path, and validation functions
+ATAC-BASH-SCR-001	scripts/00_check_environment.sh	software, reference, and input validation
+ATAC-BASH-SCR-002	scripts/01_fastqc.sh	raw FastQC and library-depth collection
+ATAC-BASH-SCR-003	scripts/02_ngmerge.sh	NGMerge adapter-overlap trimming
+ATAC-BASH-SCR-004	scripts/03_align_bowtie2.sh	Bowtie2 alignment and BAM generation
+ATAC-BASH-SCR-005	scripts/04_filter_and_deduplicate.sh	mitochondrial filtering and Picard duplicate removal
+ATAC-BASH-SCR-006	scripts/05_call_peaks_macs3.sh	individual-library paired-end MACS3 peak calling
+ATAC-BASH-SCR-007	scripts/06_build_consensus_peaks.sh	bedtools union consensus construction
+ATAC-BASH-SCR-008	scripts/07_count_consensus_reads.sh	bedtools consensus-region count matrix
+ATAC-BASH-SCR-009	scripts/08_collect_qc_metrics.sh	per-library and aggregate QC metrics
+ATAC-BASH-SCR-010	scripts/09_make_bigwig.sh	deepTools normalized browser tracks
+ATAC-BASH-SCR-011	scripts/run_sample.sh	one-library workflow orchestrator
+ATAC-BASH-SCR-012	scripts/run_cohort.sh	cohort consensus/count/QC finalization
+ATAC-BASH-SCR-013	scripts/run_atac_pipeline.sh	sequential complete-workflow orchestrator
+ATAC-BASH-SCR-014	slurm/01_process_samples.sbatch	SLURM sample-array adapter
+ATAC-BASH-SCR-015	slurm/02_finalize_cohort.sbatch	SLURM dependent cohort finalization
+ATAC-BASH-TEST-001	tests/validate_compendium.sh	static syntax and Methods-alignment checks

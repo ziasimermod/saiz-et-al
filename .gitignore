@@ -1,0 +1,8 @@
+# Artifact ID: ATAC-BASH-REPO-001
+results/
+data/
+config/project_config.sh
+*.tmp
+*.swp
+.DS_Store
+

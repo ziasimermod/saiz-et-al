@@ -1,0 +1,18 @@
+# Artifact ID: ATAC-BASH-ENV-001
+# Optional portable environment record. The module-based route remains
+# available through config/modules.example.sh.
+name: atac-paper-bash
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - fastqc=0.12.1
+  - ngmerge=0.5
+  - bowtie2=2.4.2
+  - samtools=1.12
+  - picard=2.9.0
+  - macs3=3.0.1
+  - bedtools=2.31.1
+  - deeptools=3.5.5
+

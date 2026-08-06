@@ -2,9 +2,7 @@
 
 **Scope:** primary Bash workflow from raw paired-end ATAC-seq reads through QC, individual-library peak calling, consensus peak construction, count-matrix generation, and browser tracks.
 
-This compendium is the cleaned, reviewer-facing replacement for the dated and overlapping shell scripts in `AllScripts.zip`. The accepted text of `STAR Methodsv2.4_MM(1).docx` was treated as authoritative. Historical commands were used only to recover implementation detail where they did not conflict with the Methods.
-
-The repository contains no sample-specific `/scratch` paths, fixed array sizes, email addresses, or hard-coded library names. Every sample is defined once in a tab-delimited sample sheet, and every site-specific setting is defined once in a project configuration file.
+Every sample is must be defined defined once in a tab-delimited sample sheet, and every site-specific setting should be defined once in a project configuration file.
 
 ## Canonical workflow
 

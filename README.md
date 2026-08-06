@@ -104,23 +104,20 @@ One row must represent one library from one mouse. This matches the Methods stat
 - Reported software versions are recorded in `config/software_versions.tsv`, the optional Conda environment, and the module template.
 - MACS3 is run independently on each cleaned library in paired-end mode with `-g mm` and `q = 0.05`.
 - Bowtie2 uses `--very-sensitive`; the historical `-k 10` multi-alignment branch is not used because it is absent from the Methods.
-- The consensus is a union of all q-filtered per-library MACS3 narrowPeak intervals, merged with bedtools. No additional historical q < 1e-10 filter is imposed.
+- The consensus is a union of all q-filtered per-library MACS3 narrowPeak intervals, merged with bedtools.
 - Consensus counts are produced with `bedtools multicov`, as specified by the Methods and historical standard-count script.
-- HMMRATAC, pooled-condition peak calls, STAR/BBMap alignment branches, and featureCounts peak counting are not part of the executable paper workflow.
 - MACS3 broad-peak and summit outputs were generated during exploratory batch/modality comparisons. BroadPeak intervals and the standalone summit BED files were not used to build the definitive consensus/count matrix because those exploratory representations showed batch-associated shifts. The final matrix uses the per-library narrowPeak intervals.
 - All commands run with Bash strict mode and stop on failed pipelines.
 
 ## Confirmed provenance decisions
 
-- `--call-summits` and `-B` are retained because summit and signal outputs were generated. The downstream consensus step explicitly consumes only each library's `_peaks.narrowPeak` file; it does not consume `_summits.bed` or broadPeak output.
+- `--call-summits` and `-B` are retained because summit and signal outputs were generated. The downstream consensus step explicitly consumes only each library's `_peaks.narrowPeak` file; it does not use `_summits.bed` or broadPeak output.
 - Browser tracks use CPM normalization through deepTools `bamCoverage`.
 - FRiP is the fraction of cleaned BAM alignment records overlapping that library's MACS3 peaks, calculated with bedtools.
 
 See [the Methods-to-code map](docs/ATAC-BASH-DOC-002_methods-to-code-map.md) and [historical script audit](docs/ATAC-BASH-DOC-003_historical-script-audit.md) for the full rationale.
 
-For ownership, initial publication, lab permissions, branching, releases, and citation links, use the [GitHub setup and collaboration guide](docs/ATAC-BASH-DOC-006_github-setup-and-collaboration.md).
-
-## Handoff to the R compendium
+## What you will need to generate for downstream R analysis
 
 The principal downstream inputs will be:
 

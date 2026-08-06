@@ -1,71 +1,71 @@
-*library name	*title	*library strategy	*organism	**cell type	genotype	diet	sex	sequencing batch	*molecule	*single or paired-end	*instrument model	description	processed data file
-D21-1676	"Intestinal stem cell (ISC), WT, Control, rep1"	ATAC-seq	Mus musculus	ISC	WT	CD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1677	"Transit-amplifying cell (TAC), WT, Control, rep1"	ATAC-seq	Mus musculus	TAC	WT	CD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1678	"Intestinal stem cell (ISC), WT, HFD, rep1"	ATAC-seq	Mus musculus	ISC	WT	HFD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1679	"Transit-amplifying cell (TAC), WT, HFD, rep1"	ATAC-seq	Mus musculus	TAC	WT	HFD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1680	"Intestinal stem cell (ISC), WT, Control, rep2"	ATAC-seq	Mus musculus	ISC	WT	CD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1681	"Transit-amplifying cell (TAC), WT, Control, rep2"	ATAC-seq	Mus musculus	TAC	WT	CD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1682	"Intestinal stem cell (ISC), WT, HFD, rep2"	ATAC-seq	Mus musculus	ISC	WT	HFD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1683	"Transit-amplifying cell (TAC), WT, HFD, rep2"	ATAC-seq	Mus musculus	TAC	WT	HFD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1684	"Intestinal stem cell (ISC), WT, Control, rep3"	ATAC-seq	Mus musculus	ISC	WT	CD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1685	"Transit-amplifying cell (TAC), WT, HFD, rep3"	ATAC-seq	Mus musculus	TAC	WT	HFD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1686	"Intestinal stem cell (ISC), WT, HFD, rep3"	ATAC-seq	Mus musculus	ISC	WT	HFD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1687	"Transit-amplifying cell (TAC), WT, HFD, rep4"	ATAC-seq	Mus musculus	TAC	WT	HFD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1688	"Intestinal stem cell (ISC), WT, Control, rep4"	ATAC-seq	Mus musculus	ISC	WT	CD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1689	"Transit-amplifying cell (TAC), WT, Control, rep3"	ATAC-seq	Mus musculus	TAC	WT	CD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1690	"Intestinal stem cell (ISC), WT, HFD, rep4"	ATAC-seq	Mus musculus	ISC	WT	HFD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-D21-1691	"Transit-amplifying cell (TAC), WT, Control, rep4"	ATAC-seq	Mus musculus	TAC	WT	CD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1063	"Intestinal stem cell (ISC), WT, Control, rep5"	ATAC-seq	Mus musculus	ISC	WT	CD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1064	"Intestinal stem cell (ISC), WT, HFD, rep5"	ATAC-seq	Mus musculus	ISC	WT	HFD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1065	"Intestinal stem cell (ISC), WT, HFD-1wk, rep1"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1066	"Intestinal stem cell (ISC), WT, HFD-1wk, rep2"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1067	"Intestinal stem cell (ISC), WT, HFD-1wk, rep3"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1068	"Intestinal stem cell (ISC), WT, HFD-1wk, rep4"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1069	"Intestinal stem cell (ISC), WT, HFD-4wk, rep1"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1070	"Intestinal stem cell (ISC), WT, HFD-4wk, rep2"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1071	"Intestinal stem cell (ISC), WT, HFD-4wk, rep3"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1072	"Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep1"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1073	"Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep2"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1074	"Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep3"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1075	"Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep1"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1076	"Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep2"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1077	"Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep3"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1078	"Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep4"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220201Man_D22-1079	"Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep4"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8871	"Intestinal stem cell (ISC), WT, Control, rep6"	ATAC-seq	Mus musculus	ISC	WT	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8872	"Intestinal stem cell (ISC), WT, Control, rep7"	ATAC-seq	Mus musculus	ISC	WT	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8873	"Intestinal stem cell (ISC), WT, HFD, rep6"	ATAC-seq	Mus musculus	ISC	WT	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8874	"Intestinal stem cell (ISC), WT, HFD, rep7"	ATAC-seq	Mus musculus	ISC	WT	HFD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8875	"Intestinal stem cell (ISC), WT, HFD-1wk, rep5"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8876	"Intestinal stem cell (ISC), WT, HFD-4wk, rep4"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8877	"Intestinal stem cell (ISC), WT, HFD-1wk, rep6"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8878	"Intestinal stem cell (ISC), WT, HFD-4wk, rep5"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8879	"Intestinal stem cell (ISC), WT, DRC, rep1"	ATAC-seq	Mus musculus	ISC	WT	DRC	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8880	"Intestinal stem cell (ISC), WT, DRC, rep2"	ATAC-seq	Mus musculus	ISC	WT	DRC	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8881	"Intestinal stem cell (ISC), WT, DRC, rep3"	ATAC-seq	Mus musculus	ISC	WT	DRC	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8882	"Intestinal stem cell (ISC), WT, DRC, rep4"	ATAC-seq	Mus musculus	ISC	WT	DRC	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8883	"Intestinal stem cell (ISC), WT, DRC, rep5"	ATAC-seq	Mus musculus	ISC	WT	DRC	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8884	"Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep5"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8885	"Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep5"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8886	"Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep6"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8887	"Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep6"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8888	"Intestinal stem cell (ISC), Cpt1a iKO, Control, rep1"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8889	"Intestinal stem cell (ISC), Cpt1a iKO, HFD, rep1"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8890	"Intestinal stem cell (ISC), Cpt1a iKO, Control, rep2"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8891	"Intestinal stem cell (ISC), Cpt1a iKO, HFD, rep2"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8892	"Intestinal stem cell (ISC), Cpt1a iKO, Control, rep3"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8893	"Intestinal stem cell (ISC), Cpt1a iKO, HFD, rep3"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	HFD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8894	"Intestinal stem cell (ISC), Cpt1a iKO, Control, rep4"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8895	"Intestinal stem cell (ISC), Cpt1a iKO, HFD, rep4"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	HFD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8896	"Intestinal stem cell (ISC), Apc KO, Control, rep1"	ATAC-seq	Mus musculus	ISC	Apc KO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8897	"Intestinal stem cell (ISC), Apc KO, Control, rep2"	ATAC-seq	Mus musculus	ISC	Apc KO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8898	"Intestinal stem cell (ISC), Apc KO, HFD, rep1"	ATAC-seq	Mus musculus	ISC	Apc KO	HFD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8899	"Intestinal stem cell (ISC), Apc KO, Control, rep3"	ATAC-seq	Mus musculus	ISC	Apc KO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8900	"Intestinal stem cell (ISC), Apc KO, Control, rep4"	ATAC-seq	Mus musculus	ISC	Apc KO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8901	"Intestinal stem cell (ISC), Apc KO, HFD, rep2"	ATAC-seq	Mus musculus	ISC	Apc KO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8902	"Intestinal stem cell (ISC), Apc KO, HFD, rep3"	ATAC-seq	Mus musculus	ISC	Apc KO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8903	"Intestinal stem cell (ISC), Apc KO, HFD, rep4"	ATAC-seq	Mus musculus	ISC	Apc KO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8904	"Intestinal stem cell (ISC), WT, fasted, rep1"	ATAC-seq	Mus musculus	ISC	WT	Fasted	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8905	"Intestinal stem cell (ISC), WT, fasted, rep2"	ATAC-seq	Mus musculus	ISC	WT	Fasted	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8906	"Intestinal stem cell (ISC), WT, fasted, rep3"	ATAC-seq	Mus musculus	ISC	WT	Fasted	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
-220824Man_D22-8907	"Intestinal stem cell (ISC), WT, fasted, rep4"	ATAC-seq	Mus musculus	ISC	WT	Fasted	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+*library name	*R1 filepath  *R2 filepath  *title	*library strategy	*organism	**cell type	genotype	diet	sex	sequencing batch	*molecule	*single or paired-end	*instrument model	description	processed data file
+D21-1676	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, Control, rep1"	ATAC-seq	Mus musculus	ISC	WT	CD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1677	"/path/to/fileR1"  "/path/to/fileR2"  "Transit-amplifying cell (TAC), WT, Control, rep1"	ATAC-seq	Mus musculus	TAC	WT	CD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1678	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD, rep1"	ATAC-seq	Mus musculus	ISC	WT	HFD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1679	"/path/to/fileR1"  "/path/to/fileR2"  "Transit-amplifying cell (TAC), WT, HFD, rep1"	ATAC-seq	Mus musculus	TAC	WT	HFD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1680	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, Control, rep2"	ATAC-seq	Mus musculus	ISC	WT	CD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1681	"/path/to/fileR1"  "/path/to/fileR2"  "Transit-amplifying cell (TAC), WT, Control, rep2"	ATAC-seq	Mus musculus	TAC	WT	CD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1682	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD, rep2"	ATAC-seq	Mus musculus	ISC	WT	HFD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1683	"/path/to/fileR1"  "/path/to/fileR2"  "Transit-amplifying cell (TAC), WT, HFD, rep2"	ATAC-seq	Mus musculus	TAC	WT	HFD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1684	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, Control, rep3"	ATAC-seq	Mus musculus	ISC	WT	CD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1685	"/path/to/fileR1"  "/path/to/fileR2"  "Transit-amplifying cell (TAC), WT, HFD, rep3"	ATAC-seq	Mus musculus	TAC	WT	HFD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1686	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD, rep3"	ATAC-seq	Mus musculus	ISC	WT	HFD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1687	"/path/to/fileR1"  "/path/to/fileR2"  "Transit-amplifying cell (TAC), WT, HFD, rep4"	ATAC-seq	Mus musculus	TAC	WT	HFD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1688	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, Control, rep4"	ATAC-seq	Mus musculus	ISC	WT	CD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1689	"/path/to/fileR1"  "/path/to/fileR2"  "Transit-amplifying cell (TAC), WT, Control, rep3"	ATAC-seq	Mus musculus	TAC	WT	CD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1690	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD, rep4"	ATAC-seq	Mus musculus	ISC	WT	HFD	male	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+D21-1691	"/path/to/fileR1"  "/path/to/fileR2"  "Transit-amplifying cell (TAC), WT, Control, rep4"	ATAC-seq	Mus musculus	TAC	WT	CD	female	1	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1063	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, Control, rep5"	ATAC-seq	Mus musculus	ISC	WT	CD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1064	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD, rep5"	ATAC-seq	Mus musculus	ISC	WT	HFD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1065	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-1wk, rep1"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1066	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-1wk, rep2"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1067	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-1wk, rep3"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1068	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-1wk, rep4"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1069	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-4wk, rep1"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1070	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-4wk, rep2"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1071	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-4wk, rep3"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1072	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep1"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1073	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep2"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1074	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep3"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1075	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep1"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1076	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep2"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1077	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep3"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1078	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep4"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220201Man_D22-1079	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep4"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	female	2	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8871	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, Control, rep6"	ATAC-seq	Mus musculus	ISC	WT	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8872	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, Control, rep7"	ATAC-seq	Mus musculus	ISC	WT	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8873	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD, rep6"	ATAC-seq	Mus musculus	ISC	WT	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8874	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD, rep7"	ATAC-seq	Mus musculus	ISC	WT	HFD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8875	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-1wk, rep5"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8876	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-4wk, rep4"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8877	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-1wk, rep6"	ATAC-seq	Mus musculus	ISC	WT	HFD-1wk	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8878	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, HFD-4wk, rep5"	ATAC-seq	Mus musculus	ISC	WT	HFD-4wk	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8879	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, DRC, rep1"	ATAC-seq	Mus musculus	ISC	WT	DRC	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8880	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, DRC, rep2"	ATAC-seq	Mus musculus	ISC	WT	DRC	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8881	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, DRC, rep3"	ATAC-seq	Mus musculus	ISC	WT	DRC	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8882	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, DRC, rep4"	ATAC-seq	Mus musculus	ISC	WT	DRC	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8883	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, DRC, rep5"	ATAC-seq	Mus musculus	ISC	WT	DRC	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8884	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep5"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8885	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep5"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8886	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, Control, rep6"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8887	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Ppar-d/a iKO, HFD, rep6"	ATAC-seq	Mus musculus	ISC	Ppar-d/a iKO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8888	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Cpt1a iKO, Control, rep1"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8889	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Cpt1a iKO, HFD, rep1"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8890	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Cpt1a iKO, Control, rep2"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8891	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Cpt1a iKO, HFD, rep2"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8892	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Cpt1a iKO, Control, rep3"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8893	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Cpt1a iKO, HFD, rep3"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	HFD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8894	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Cpt1a iKO, Control, rep4"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8895	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Cpt1a iKO, HFD, rep4"	ATAC-seq	Mus musculus	ISC	Cpt1a iKO	HFD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8896	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Apc KO, Control, rep1"	ATAC-seq	Mus musculus	ISC	Apc KO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8897	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Apc KO, Control, rep2"	ATAC-seq	Mus musculus	ISC	Apc KO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8898	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Apc KO, HFD, rep1"	ATAC-seq	Mus musculus	ISC	Apc KO	HFD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8899	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Apc KO, Control, rep3"	ATAC-seq	Mus musculus	ISC	Apc KO	CD	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8900	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Apc KO, Control, rep4"	ATAC-seq	Mus musculus	ISC	Apc KO	CD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8901	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Apc KO, HFD, rep2"	ATAC-seq	Mus musculus	ISC	Apc KO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8902	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Apc KO, HFD, rep3"	ATAC-seq	Mus musculus	ISC	Apc KO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8903	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), Apc KO, HFD, rep4"	ATAC-seq	Mus musculus	ISC	Apc KO	HFD	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8904	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, fasted, rep1"	ATAC-seq	Mus musculus	ISC	WT	Fasted	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8905	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, fasted, rep2"	ATAC-seq	Mus musculus	ISC	WT	Fasted	male	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8906	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, fasted, rep3"	ATAC-seq	Mus musculus	ISC	WT	Fasted	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv
+220824Man_D22-8907	"/path/to/fileR1"  "/path/to/fileR2"  "Intestinal stem cell (ISC), WT, fasted, rep4"	ATAC-seq	Mus musculus	ISC	WT	Fasted	female	3	genomic DNA	paired-end	NextSeq 2000		consensus_counts_allsamples.tsv

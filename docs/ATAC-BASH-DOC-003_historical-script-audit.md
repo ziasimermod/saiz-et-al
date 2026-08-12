@@ -1,11 +1,8 @@
 # Historical Bash script audit
 
-**Artifact ID:** ATAC-BASH-DOC-003  
-**Source audited:** `AllScripts.zip` supplied on 2026-08-04.
+**Article ID:** ATAC-BASH-DOC-003  
 
-The archive contains 152 `.sh` files plus one Python utility. It mixes paper ATAC-seq preprocessing, alternative/experimental peak-calling paths, RNA/scRNA processing, visualization, motif analysis, scheduler templates, copied package tests/configuration files, and one-off file-management commands. It should not be uploaded to GitHub as a flat “analysis scripts” directory.
-
-## Historical files consolidated into the canonical workflow
+## Workflow
 
 | Function | Principal historical evidence | Canonical replacement |
 | --- | --- | --- |
@@ -20,7 +17,7 @@ The archive contains 152 `.sh` files plus one Python utility. It mixes paper ATA
 | QC summaries | `depth.sh`, `idxstats.sh`, `FRiP_calc.sh`, Picard metrics | `scripts/08_collect_qc_metrics.sh` |
 | Browser tracks | `BigWigGen.sh`, `run_bigwigGen.sh` | `scripts/09_make_bigwig.sh` |
 
-## Conflicts resolved using the STAR Methods
+## STAR Methods vesion specification
 
 | Historical behavior | STAR Methods ground truth | Resolution |
 | --- | --- | --- |

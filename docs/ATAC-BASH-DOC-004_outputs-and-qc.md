@@ -1,8 +1,8 @@
 # Output and QC data dictionary
 
-**Artifact ID:** ATAC-BASH-DOC-004
+**Article ID:** ATAC-BASH-DOC-004
 
-## Primary directory structure
+## Primary directory structure (Important for full workflow)
 
 ```text
 results/

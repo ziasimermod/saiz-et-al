@@ -1,7 +1,6 @@
 # STAR Methods-to-code map
 
-**Artifact ID:** ATAC-BASH-DOC-002  
-**Authority used:** accepted text of `STAR Methodsv2.4_MM(1).docx` supplied on 2026-08-04.
+**Article ID:** ATAC-BASH-DOC-002  
 
 This map separates statements explicitly supported by the STAR Methods from implementation details recovered from the historical scripts. When the two conflicted, the STAR Methods won.
 

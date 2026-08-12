@@ -10,8 +10,5 @@
 ## Repository hygiene
 
 - [ ] Do not commit raw FASTQ, BAM, bigWig, generated results, cluster logs, private paths, or access tokens.
-- [ ] Obtain Write access to `ManaStemLab/ManaStemLab` from the organization owner before the initial push.
-- [ ] Decide and add a repository license.
 - [ ] Add the paper citation, DOI/preprint link, GEO accession GSE317375, and contact information to the repository-level README.
 - [ ] Tag the exact release used for manuscript submission and record the tag/commit in the Data and Code Availability statement.
-- [ ] Preserve the original dated archive only in a clearly marked non-executable provenance location, if it is published at all.
